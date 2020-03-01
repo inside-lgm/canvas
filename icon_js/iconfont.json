@@ -1,0 +1,58 @@
+{
+  "id": "1652983",
+  "name": "canvas-demo-2/24",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6652250",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "9788473",
+      "name": "arrow-ray",
+      "font_class": "arrow-ray",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "9828815",
+      "name": "文字编辑",
+      "font_class": "ziyuan",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "4674647",
+      "name": "clear",
+      "font_class": "clear",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "12310343",
+      "name": "return",
+      "font_class": "revoke",
+      "unicode": "e890",
+      "unicode_decimal": 59536
+    },
+    {
+      "icon_id": "749915",
+      "name": "eraser",
+      "font_class": "eraser",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9519667",
+      "name": "Pen",
+      "font_class": "pen",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    }
+  ]
+}
